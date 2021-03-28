@@ -7,7 +7,7 @@ date: 2020-11-30
 
 ## Overview
 
-- This tutorial will show you how to configure custom TLS certificatate for ingress addon.
+- This tutorial will show you how to configure custom TLS certificate for ingress addon.
 
 ## Tutorial
 
